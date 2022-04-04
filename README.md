@@ -1,7 +1,7 @@
 # Predicting Income with Census Data
 In this project, we will use publicly available Census data to determine what factors may predict the likelihood that someone makes over $50,000 a year in income. There are three notebooks included in this repo that should be viewed sequentially: (1) data_wrangling, (2) eda, and (3) models. 
 
-[image]
+![Pipeline](pipeline.png)
 
 ## Data Sources
 
