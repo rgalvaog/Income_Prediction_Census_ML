@@ -25,5 +25,13 @@ In the EDA phase of the project, I remove variables that are not relevant for th
 ## Models
 In this project, we compare two models for machine learning analysis -- a logistic regression and a random forest model. Due to computational limitations, I did not use GridSearch in this analysis, though I attempted to do some level of hyperparameter tuning by comparing accuracy scores for different major parameters. The Jupyter notebook `models` goes into detail into each model choice and evaluation.
 
+#### Logistic Regression
+
+https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+
+#### Random Forest
+
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+
 ## Conclusions
 Overall, the random forest model performed better and uncovered insights into what kinds of variables can be used to predict income. Capital gains, age, and education emerged as important features, with advanced degrees being some of the most important features that determined income.
