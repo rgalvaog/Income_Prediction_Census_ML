@@ -3,6 +3,11 @@ In this project, we will use publicly available Census data to determine what fa
 
 ![Pipeline](pipeline.png)
 
+## Jupyter Notebooks vs. Python Pipeline
+I have presented my code in this repo in two different ways. If you would like to have in-depth commentary about my model and design choices as well as see different things I tried before arriving at a conclusion, check out the `Jupyter Notebooks` folder. However, if you would just like to see the Python code and verify that the different components of the analysis work well together, you can access the `Python Pipeline` folder instead.
+
+![Choice](jup_python_choice.png)
+
 ## Data Sources
 
 #### Census Income Learn and Census Income Test
